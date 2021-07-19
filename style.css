@@ -348,6 +348,24 @@ a{
     box-sizing: border-box;
 }
 
+.Testimonials{
+    width:100%;
+    height:100%;
+    margin-bottom: 200px;
+    text-align: center;
+    /* border: 1px solid black; */
+    box-sizing: border-box;
+}
+.Testimonials h1,h4{
+    font-size:35px;
+    line-height:50px;
+}
+.Testimonials h4{
+    font-size:16px;
+    line-height:30px;
+    font-weight: 500;
+}
+
 .container{
     position:relative;
     width:100%;
