@@ -1,2 +1,2 @@
-# JTGFrontend
+# Frontend
  
